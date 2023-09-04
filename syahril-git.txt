@@ -1,0 +1,7 @@
+Syahril Development
+- Membuat Portofolio Website
+- Mempelajari HTML, CSS , dan Javascript
+- Mempelajari tentang Git & Github
+- Mempelajari tentang Bahasa Bahasa Cabang dari Javascript, seperti SQL, NodeJS, dan sebagainya
+- Menjadi seorang Developer maupun Programmer
+- Mampu bekerja dalam bidang Programmer atau Coding
